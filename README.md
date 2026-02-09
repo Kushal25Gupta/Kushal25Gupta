@@ -1,50 +1,82 @@
-# 💫 About Me:
-🔭 I’m Currently Preparing For College Placement's.<br>
-🌱 I’m currently Exploring Web Development,<br>
-💬 Ask me about Good First Issues & Exciting projects to work on.<br>
-📫 How to reach me: http://bitly.ws/Apqa<br>😄 Pronouns: He/His
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kushal25Gupta&label=Profile%20views&color=0e75b6&style=flat" alt="Kushal25Gupta" /> </p>
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
-#
-
-### ✍ My Contributions
-![rockstarjun](https://github-readme-activity-graph.cyclic.app/graph?username=Kushal25Gupta&hide_border=true&theme=react-dark)
-
-# 📊 GitHub Stats Overview:
-![](https://github-readme-stats.vercel.app/api?username=Kushal25Gupta&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kushal25Gupta&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal25Gupta&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kushal25Gupta&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
+<h1 align="center">Hi 👋, I'm Kushal Gupta</h1>
+<h3 align="center">Backend Developer | Python, Django, C++ | Flutter Enthusiast</h3>
 <p align="center">
-    <h2 align="center">Visitors Count</h2>
-    <p align="center">
-      <img src="https://profile-counter.glitch.me/{Kushal25Gupta}/count.svg" alt="VisitorCount">
-    </p>
+  I’m passionate about building scalable backend systems, refactoring legacy code, and solving real-world problems with clean, high-performance architecture. Whether it's crafting APIs with Django or building cross-platform apps with Flutter, I thrive on shipping solutions that scale and last.
+</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Kushal25Gupta&label=Profile%20views&color=0e75b6&style=flat" alt="Kushal25Gupta" /> 
+ <img alt="Profile followers" src="https://img.shields.io/github/followers/Kushal25Gupta">
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,cpp,flutter,postgres" />
+</div>
+
+<br>
+
+- 🔭 Currently exploring **Backend Development, Distributed Systems**  
+- 💻 Interned at **ViewSend ICT (Tokyo, Japan)** and **R.Tech Engineers (India)**  
+- 🌱 Learning advanced **system design and cloud engineering**  
+- 💬 Ask me about **Python, Django, Redis, C++, PostgreSQL**  
+- 🧠 Strong at algorithms: **LeetCode 1750+ (Top 10%)**, **CodeChef 1650+**  
+- 👨‍🏫 Founded tech club on campus with 150+ members  
+- 📫 Reach me at **kushal2510gupta@gmail.com**  
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/kushal25gupta" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="kushal25gupta" width="80" />
+  </a>
+  <a href="https://github.com/Kushal25Gupta" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" alt="github" width="80" />
+  </a>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">🧰 Tech Stack:</h3>
+
+- **Languages & Frameworks:**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,flutter,dart,java" />
+</p>
+
+- **Backend & Databases:**
+<p>
+  <img src="https://skillicons.dev/icons?i=django,postgres,mysql,redis,firebase" />
+</p>
+
+- **Cloud & DevOps:**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,githubactions" />
+</p>
+
+- **Tools:**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,linux,vscode" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Kushal25Gupta&show_icons=true&theme=nightowl" alt="Kushal25Gupta GitHub Stats" width="45%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kushal25Gupta&theme=nightowl" width="49%" />
+</p>
+
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal25Gupta&layout=compact&hide_progress=true&theme=nightowl" width="45%" />
+
+</p> -->
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kushal25Gupta&style=flat-square" />
+
+</p>
+
+<p align="right">Created with ❤️ by <a href="https://linkedin.com/in/kushal25gupta">Kushal Gupta</a></p>
